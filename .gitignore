@@ -20,7 +20,6 @@
 ## for our builds
 /lib/
 /build/
-/dist/
 
 ## temp folders
 /.tmp/

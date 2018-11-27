@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack src/index.js",
-    "start": "polymer serve -H 0.0.0.0 -p 8087 --root dist"
+    "start": "polymer serve -H 0.0.0.0 -p 8083 --root dist"
   },
   "keywords": [],
   "author": "",
