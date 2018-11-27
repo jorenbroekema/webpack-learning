@@ -21,6 +21,10 @@
 /lib/
 /build/
 
+## webpack, only include the index.html
+/dist/
+!/dist/index.html
+
 ## temp folders
 /.tmp/
 
