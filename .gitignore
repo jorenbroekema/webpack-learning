@@ -11,7 +11,6 @@
 
 # for now we don't want lock files
 /yarn.lock
-/package-lock.json
 
 ## bower
 /bower_components*/
